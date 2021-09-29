@@ -221,6 +221,8 @@ text-align: center !important;
 
 .bi-envelope, .bi-github, .bi-linkedin, .bi-facebook {
   color:#006064;
+  margin-left: 10px;
+  text-align: start;
 }
 
   /*--- Projects ---*/
@@ -454,7 +456,7 @@ heder-resume {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #81a4f1;
+  border-left: 2px solid #ffb473;
   position: relative;
 }
 .resume .resume-item h4 {
@@ -472,7 +474,7 @@ heder-resume {
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
-  color: #79a2df;
+  color: #006363;
 }
 .resume .resume-item ul {
   padding-left: 20px;
@@ -492,5 +494,5 @@ heder-resume {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid mediumblue;
+  border: 2px solid #ff9640;
 }
