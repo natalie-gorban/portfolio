@@ -89,54 +89,6 @@ line-height: 1.5;
 }
 
 
-/*
-.about img {
-    height: 100%;
-    width: 100%;
-    border-radius: 50%;
-} */
-/*
-
-
-
-
-
-
-
-/* Information */
-/* .about{
-    /* margin: 4em 0; */
-    /* padding: 1em;
-    position: relative; */
-
-
-/*
-.about h1 h3 p{
-    color:#F97300;
-    margin: 2em;
-    /* text-align: center!important; */
-    /* margin-right: 200px;
-    direction: rtl;
-    text-align: justify!important;
-} */
-
-/*
-
-
-
-  text center h1 {
-    color: #f97300 !important;
-    margin-bottom: 2em;
-  }
-
-  .h1 h1 {
-    color: tomato !important;
-    margin-left: 100px;
-
-  } */
-
-
-
 /* ---About--- */
 .about b {
   display: block;
@@ -235,11 +187,7 @@ text-align: center !important;
   color:#006064;
   margin: 30px;
 }
-/*
-.project{
-  margin: 4em 0;
-  position: relative;
-/* } */
+
 .project h1{
   margin: 2em;
 }
